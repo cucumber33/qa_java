@@ -3,23 +3,23 @@ package com.example;
 import java.util.List;
 
 public class Lion {
-    //Lion зависимый класс от класса-зависимости Feline, т.к. Lion использует методы класса Feline
-    boolean hasMane;
-    private AnimalProperty animalProperty;
 
-    public Lion(String sex, AnimalProperty animalProperty) throws Exception {
-        this.animalProperty = animalProperty;
+    boolean hasMane;
+
+    public Lion(String sex) throws Exception {
         if ("Самец".equals(sex)) {
             hasMane = true;
         } else if ("Самка".equals(sex)) {
             hasMane = false;
         } else {
-            throw new Exception("Используйте допустимые значения пола животного - самец или самка");
+            throw new Exception("Используйте допустимые значения пола животного - самей или самка");
         }
     }
 
+    Feline feline = new Feline();
+
     public int getKittens() {
-        return animalProperty.getKittens();
+        return feline.getKittens();
     }
 
     public boolean doesHaveMane() {
@@ -27,6 +27,6 @@ public class Lion {
     }
 
     public List<String> getFood() throws Exception {
-        return animalProperty.getFoods("Хищник");
+        return feline.getFood("Хищник");
     }
 }
