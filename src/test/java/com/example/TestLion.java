@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.List;
 
 import static org.junit.Assert.*;
-
+//
 public class TestLion {
     Feline feline = new Feline();
     Lion lion = new Lion("Самка", new Feline());

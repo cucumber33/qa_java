@@ -14,7 +14,7 @@ public class LionParamTest {
     Lion lion = new Lion("Самка", new Feline());
     private final String sex;
     private final boolean hasMane;
-
+//
     public LionParamTest(String sex, Boolean hasMane) throws Exception {
         this.sex = sex;
         this.hasMane = hasMane;

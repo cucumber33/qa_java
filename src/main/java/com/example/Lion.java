@@ -6,7 +6,7 @@ public class Lion {
     //Lion зависимый класс от класса-зависимости Feline, т.к. Lion использует методы класса Feline
     boolean hasMane;
     private AnimalProperty animalProperty;
-
+//
     public Lion(String sex, AnimalProperty animalProperty) throws Exception {
         this.animalProperty = animalProperty;
         if ("Самец".equals(sex)) {
