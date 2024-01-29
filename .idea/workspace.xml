@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b60dcb5-ac27-41d3-af35-1d278183daae" name="Changes" comment="tests_commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/AnimalProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/LionParamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/TestCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/TestFeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/TestLion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Feline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Feline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Feline.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Feline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Lion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cucumber33&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="68667594-232a-461c-9ad0-efd063b45072" />
+        <option name="url" value="https://github.com/cucumber33/qa_java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2awaQcv1rWhmbhKw6QI2BQLaV0Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.LionParamTest.doesHaveManeTest.executor": "Run",
+    "JUnit.LionParamTest.executor": "Run",
+    "JUnit.LionParamTest.getFoodTest.executor": "Run",
+    "JUnit.TestCat.executor": "Run",
+    "JUnit.TestCat.getFoodTest.executor": "Run",
+    "JUnit.TestCat.getSoundTest.executor": "Run",
+    "JUnit.TestFeline.eatMeatPredatorShowsMenu.executor": "Run",
+    "JUnit.TestFeline.executor": "Run",
+    "JUnit.TestFeline.getFamilyShouldBeFeline.executor": "Run",
+    "JUnit.TestFeline.getFoodTest.executor": "Run",
+    "JUnit.TestFeline.getKittensCount.executor": "Run",
+    "JUnit.TestLion.HasManeTest.executor": "Run",
+    "JUnit.TestLion.doesHaveManeTest.executor": "Run",
+    "JUnit.TestLion.executor": "Run",
+    "JUnit.TestLion.getFoodTest.executor": "Run",
+    "JUnit.TestLion.getKittensTest.executor": "Run",
+    "JUnit.TestLion.hasManeTest.executor": "Run",
+    "JUnit.TestLion.reallyDoesHaveManeTest.executor": "Run",
+    "Maven.untitled [clean,verify].executor": "Run",
+    "Maven.untitled [clean].executor": "Run",
+    "Maven.untitled [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develope4__from__main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/79246/qa_java/src/main/java/com/example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\79246\qa_java\src\main\java\com\example" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git add -f .\target\site\jacoco\." />
+      <command value="mvn clean" />
+      <command value="mvn verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestLion.getFoodTest">
+    <configuration name="LionParamTest.doesHaveManeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.LionParamTest" />
+      <option name="METHOD_NAME" value="doesHaveManeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LionParamTest.getFoodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.LionParamTest" />
+      <option name="METHOD_NAME" value="getFoodTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLion.getFoodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.TestLion" />
+      <option name="METHOD_NAME" value="getFoodTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLion.getKittensTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.TestLion" />
+      <option name="METHOD_NAME" value="getKittensTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLion.hasManeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.TestLion" />
+      <option name="METHOD_NAME" value="hasManeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="qa_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="qa_java" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestLion.hasManeTest" />
+        <item itemvalue="JUnit.TestLion.getKittensTest" />
+        <item itemvalue="JUnit.TestLion.getFoodTest" />
+        <item itemvalue="JUnit.LionParamTest.getFoodTest" />
+        <item itemvalue="JUnit.LionParamTest.doesHaveManeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-97de7592" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b60dcb5-ac27-41d3-af35-1d278183daae" name="Changes" comment="" />
+      <created>1705232080448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705232080448</updated>
+      <workItem from="1705232081531" duration="2734000" />
+      <workItem from="1705315729231" duration="375000" />
+      <workItem from="1705316152028" duration="732000" />
+      <workItem from="1705316935634" duration="5054000" />
+      <workItem from="1705411026285" duration="2770000" />
+      <workItem from="1705414765363" duration="528000" />
+      <workItem from="1705664646546" duration="7384000" />
+      <workItem from="1705731638254" duration="433000" />
+      <workItem from="1705732307426" duration="10558000" />
+      <workItem from="1705924900747" duration="3528000" />
+      <workItem from="1705929817577" duration="1069000" />
+      <workItem from="1706097990683" duration="6637000" />
+      <workItem from="1706259928260" duration="11697000" />
+      <workItem from="1706337678798" duration="20157000" />
+      <workItem from="1706435490661" duration="12169000" />
+      <workItem from="1706452574632" duration="978000" />
+      <workItem from="1706519332459" duration="6419000" />
+      <workItem from="1706529195045" duration="716000" />
+      <workItem from="1706529942715" duration="1329000" />
+    </task>
+    <task id="LOCAL-00001" summary="tests_commit">
+      <option name="closed" value="true" />
+      <created>1706444866952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706444866953</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tests_commit">
+      <option name="closed" value="true" />
+      <created>1706450070827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706450070827</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tests_commit2">
+      <option name="closed" value="true" />
+      <created>1706450292314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706450292314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tests_commit">
+      <option name="closed" value="true" />
+      <created>1706450993076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706450993077</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add jacoco report" />
+    <MESSAGE value="tests_commit2" />
+    <MESSAGE value="tests_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests_commit" />
+  </component>
+</project>

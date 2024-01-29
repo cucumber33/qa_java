@@ -1,0 +1,19 @@
+Index: src/main/java/com/example/Animal.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.example;\r\n\r\nimport java.util.List;\r\n\r\npublic class Animal {\r\n\r\n    public List<String> getFood(String animalKind) throws Exception {\r\n        if (\"Травоядное\".equals(animalKind)) {\r\n            return List.of(\"Трава\", \"Различные растения\");\r\n        } else if (\"Хищник\".equals(animalKind)) {\r\n            return List.of(\"Животные\", \"Птицы\", \"Рыба\");\r\n        } else {\r\n            throw new Exception(\"Неизвестный вид животного, используйте значение Травоядное или Хищник\");\r\n        }\r\n    }\r\n\r\n    public String getFamily() {\r\n        return \"Существует несколько семейств: заячьи, беличьи, мышиные, кошачьи, псовые, медвежьи, куньи\";\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/example/Animal.java b/src/main/java/com/example/Animal.java
+--- a/src/main/java/com/example/Animal.java	(revision 8f25d8b4f2895f8d9e4d46faac4c8c248c6c1e21)
++++ b/src/main/java/com/example/Animal.java	(date 1706524347344)
+@@ -1,7 +1,7 @@
+ package com.example;
+ 
+ import java.util.List;
+-
++//
+ public class Animal {
+ 
+     public List<String> getFood(String animalKind) throws Exception {

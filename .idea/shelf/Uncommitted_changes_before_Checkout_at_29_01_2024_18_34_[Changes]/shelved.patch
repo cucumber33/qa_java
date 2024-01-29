@@ -1,0 +1,20 @@
+Index: src/main/java/com/example/AnimalProperty.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/example/AnimalProperty.java b/src/main/java/com/example/AnimalProperty.java
+new file mode 100644
+--- /dev/null	(date 1706524443098)
++++ b/src/main/java/com/example/AnimalProperty.java	(date 1706524443098)
+@@ -0,0 +1,10 @@
++package com.example;
++
++import java.util.List;
++//
++public interface AnimalProperty {
++
++    int getKittens();
++
++    List<String> getFoods(String animalType) throws Exception;
++}
